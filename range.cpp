@@ -10,8 +10,7 @@ int main ()
     {
         prod = low * i ;
         cout<<prod<<" ";
-        low ++ ;
-        
+        low ++ ;  
     }
     return 0 ;
 
